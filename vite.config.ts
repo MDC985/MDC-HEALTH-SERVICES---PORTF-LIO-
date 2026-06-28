@@ -2,6 +2,5 @@ import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
 export default defineConfig({
-  plugins: [react()],
-  base: '/MDC-HEALTH-SERVICES---PORTF-LIO-/'
+  plugins: [react()]
 })
